@@ -1,0 +1,4 @@
+--create database Srilekha;
+--alter database Srilekha modify name =Buddy;
+--sp_renameDB 'Buddy', 'Srilu';
+--Drop database Srilu;
